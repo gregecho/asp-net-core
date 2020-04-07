@@ -1,1 +1,1 @@
-*asp.net core 3.0 viewcomponent tutorial*
+asp.net core 3.0 viewcomponent tutorial
